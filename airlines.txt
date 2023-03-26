@@ -1,0 +1,35 @@
+latur_pune
+3:00pm
+Rs.2000
+6 hrs
+1
+
+pune_latur
+6:00pm
+Rs.3000
+5:55 hrs
+2
+
+pune_solapur
+9:00am
+Rs.2030
+4:05 hrs
+3
+
+latur_pandharpur
+11:00pm
+Rs.4000
+4:40hrs
+4
+
+latur_pune
+4:00pm
+Rs.2405
+7 hrs
+5
+
+latur_pune
+12:00am
+Rs.2344
+6:50 hrs
+6
